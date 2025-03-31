@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Cristóbal! 👋
 
 [![Portafolio](https://img.shields.io/badge/-Portafolio-FF5722?style=flat&logo=google-chrome&logoColor=white)]([Enlace a tu portafolio])
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([Enlace a LinkedIn])
@@ -6,11 +6,11 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@example.com)
 
 ## 👨‍💻 Sobre mí
-¡Soy un **[tu profesión, ej: Desarrollador Full Stack | Data Scientist | Ingeniero de DevOps]** apasionado por **[tus intereses, ej: la inteligencia artificial, el desarrollo web, la automatización]**. Me encanta aprender tecnologías nuevas y colaborar en proyectos innovadores.
+¡Soy un programador autodidacta, apasionado por el manejo de datos, Machine Learning, Power BI y cualquier forma de generar y obtener data. Me encanta aprender tecnologías nuevas y colaborar en proyectos innovadores.
 
-- 🌱 Actualmente aprendiendo: **React, Python, Machine Learning, etc.**
-- 💬 Pregúntame sobre: **Tus tecnologías fuertes.**
-- ⚡ Dato curioso: **¡Escribe algo interesante o divertido!**
+- 🌱 Actualmente aprendiendo: Python, Machine Learning
+- 💬 Pregúntame sobre: SQL, Python y Power BI.
+- ⚡ Dato curioso: debo escuchar música clásica para concentarme.
 
 ## 🛠 Tecnologías y Herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
